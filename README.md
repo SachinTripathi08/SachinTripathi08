@@ -72,6 +72,19 @@
 🚀 Developed a unique project demonstrating creativity
 💡 Strong discussion point for interviews
 
+### 🔹 Grocery Management System (Spring Boot + MySQL)
+
+🛒 Production-ready backend system for managing grocery operations
+
+* 💻 Developed using **Java (Spring Boot)** with **MySQL database**
+* 📦 Implemented **product management & inventory tracking system**
+* 💰 Designed real-world pricing logic (**MRP, selling price, discount, final price**)
+* 🔄 Automated **stock updates after each transaction**
+* 🧾 Built **billing & invoice generation system**
+* 🏗️ Followed **clean architecture & scalable design principles**
+
+🚀 Demonstrates strong understanding of **backend development & real-world system design**
+
 ---
 
 ## 💼 Experience
