@@ -99,7 +99,7 @@
 
 ## 🧠 Coding Profiles
 
-* 💻 LeetCode: https://leetcode.com/sachintripathi08
+* 💻 LeetCode: https://leetcode.com/_SachinTripathi
 
 ---
 
