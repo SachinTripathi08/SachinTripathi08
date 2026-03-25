@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+👋+I'm+Sachin+Tripathi;Java+Developer+%7C+DSA+Enthusiast;Building+Projects+%26+Learning+Daily;Future+Software+Engineer+🚀&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+👋+I'm+Sachin+Tripathi;Java+Full+Stack+Learner+%7C+DSA+Enthusiast;100%2B+LeetCode+Problems+Solved;Consistent+Coder+🔥&center=true&width=500&height=45">
 </p>
 
 <h1 align="center">Hey 👋 I'm Sachin Tripathi</h1>
@@ -11,10 +11,12 @@
 
 ## 🚀 About Me
 
-* 🔥 Grinding daily on **DSA (LeetCode)**
-* 💻 Building projects using **Java + Backend Technologies**
+* 🔥 Solving **DSA daily on LeetCode (100+ problems solved)**
+* 📈 Achieved **50 Days Badge (2026)** & **41 Days Streak 🔥**
+* 💻 Learning **Java Full Stack Development**
+* ⚙️ Completed: **Java, JDBC, Hibernate**
+* 🌱 Currently Learning: **Spring Framework**
 * ☁️ Exploring **AWS & Cloud Deployment**
-* 🧠 Learning **System Design & Scalable Systems**
 * 🎯 Goal: **Crack top internship / SDE role & build impactful products**
 
 ---
@@ -118,4 +120,4 @@
 
 ## ⚡ Fun Fact
 
-🚀 I don’t just learn — I build, break, and improve every single day
+🚀 Consistency beats talent — I show up and code every single day
