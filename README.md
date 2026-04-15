@@ -11,8 +11,8 @@
 
 ## 🚀 About Me
 
-* 🔥 Solving **DSA daily on LeetCode (100+ problems solved)**
-* 📈 Achieved **50 Days Badge (2026)** & **41 Days Streak 🔥**
+* 🔥 Solving **DSA daily on LeetCode (120+ problems solved)**
+* 📈 Achieved **50 Days Badge (2026)** & **62 Days Streak 🔥**
 * 💻 Learning **Java Full Stack Development**
 * ⚙️ Completed: **Java, JDBC, Hibernate**
 * 🌱 Currently Learning: **Spring Framework**
